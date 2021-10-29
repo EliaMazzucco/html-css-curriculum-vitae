@@ -10,10 +10,14 @@
     background: rgb(255, 123, 0);
     height: 3px;
 }
+#img{
+    width: 300px;
+    height: 300px;
+}
 .profiloimg{
     text-align: center;
      background-color: rgb(187, 187, 187);
-     height: 503px;
+     height: 450px;
 }
 .parag{
     text-align:start;
