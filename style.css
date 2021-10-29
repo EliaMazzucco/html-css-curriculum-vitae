@@ -22,4 +22,11 @@
 }
 #titolo{
     font-size: 50px;
+    
+}
+#sottotitoli{
+    font-style: oblique;
+}
+#saluti{
+    text-align: center;
 }
