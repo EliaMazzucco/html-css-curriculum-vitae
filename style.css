@@ -9,5 +9,6 @@
     color: rgb(255, 230, 0); background: rgb(255, 230, 0); border: 0; height: 3px;
 }
 .profiloimg{
-    
+        text-align:center;
+        background-color: aquamarine;
 }
