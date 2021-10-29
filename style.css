@@ -2,20 +2,18 @@
     text-align:justify;
 }
 .titoli {
-    color: orange;
+    color: rgb(255, 123, 0);
     font-size: 250%;
 }
 .linea {
-    color: rgb(255, 230, 0);
-    background: rgb(255, 230, 0); 
-    border: 0; 
+    color: rgb(255, 123, 0);
+    background: rgb(255, 123, 0);
     height: 3px;
 }
 .profiloimg{
     text-align: center;
-     background-color: rgba(163, 255, 255, 0.288);
-     height: 491px;
-     ;
+     background-color: rgb(187, 187, 187);
+     height: 503px;
 }
 .parag{
     text-align:start;
@@ -24,7 +22,7 @@
     font-size: 50px;
     
 }
-#sottotitoli{
+.sottotitoli{
     font-style: oblique;
 }
 #saluti{
