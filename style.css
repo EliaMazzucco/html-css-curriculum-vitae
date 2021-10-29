@@ -1,4 +1,13 @@
-
+.testo {
+    text-align: center;
+}
+.titoli {
+    color: orange;
+    font-size: 250%;
+}
+.linea {
+    color: rgb(255, 230, 0); background: rgb(255, 230, 0); border: 0; height: 3px;
+}
+.profiloimg{
     
-
 }
