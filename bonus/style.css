@@ -1,0 +1,20 @@
+#logo {
+    height: 30%; width: 30%;    
+}
+
+#body{
+    background-color: black;
+    text-align: center;
+    
+}
+.linea{
+    color: rgb(9, 255, 0);
+    background: rgb(9, 255, 0);
+    height: 15px;
+}
+#titolo1{
+    color: cornsilk;
+    font-size: 1000%;
+    font-family: "colonna mt regular";
+    color: rgb(255, 123, 0);
+}
